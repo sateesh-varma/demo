@@ -1,54 +1,47 @@
 {
-“connected_colleagues”: [
+"connected_colleagues": [
 "company_name": "Stellar Mobile",
 "company_image_src": "https://s3.amazonaws.com/ih_co_logos/cologo_stellar.png",
 "connected_colleagues": [
 {
-"photo_url": "https://s3.amazonaws.com/ih_users/stewart.jpg",
-"score: 100,
-"id": "1582",
-"primary_email": "stewart.walchli@introhive.com",
-"ranking": "1",
-"name": "Stewart Walchli",
-"is_current_user": false
+  "photo_url": "https://s3.amazonaws.com/ih_users/stewart.jpg",
+  "score": "100",
+  "id": "15862",
+  "ranking": "1",
+  "name": "Stewart Walchli",
+  "is_current_user": "false"
 },
 {
-"photo_url":
-"https://s3.amazonaws.com/ih_profiles/uploads/user/image/1869/thumb_Draper_Profile.JPG",
-"score": 98.26721386228911,
-"id": "1869",
-"primary_email": "adam.draper@introhive.com",
-"ranking": "2",
-"name": "Adam Draper",
-"is_current_user": false
+  "photo_url": "https://s3.amazonaws.com/ih_users/stewart.jpg",
+  "score": "100",
+  "id": "15862",
+  "ranking": "1",
+  "name": "Stewart Walchli",
+  "is_current_user": "false"
 },
 {
-"photo_url": "https://s3.amazonaws.com/ih_users/Icon_No_Image_User.png",
-"score": 51.70998632010944,
-"id": "1731",
-"primary_email": "andrew.jones@introhive.com",
-  "ranking": "3",
-"name": "Andrew Jones",
-"is_current_user": false
+  "photo_url": "https://s3.amazonaws.com/ih_users/stewart.jpg",
+  "score": "98.2",
+  "id": "15865",
+  "ranking": "2",
+  "name": "Sateesh Kommirisetty",
+  "is_current_user": "false"
 },
 {
-"photo_url": "https://s3.amazonaws.com/ih_users/jody_glidden.jpg",
-"score": 50.84359325125399,
-"id": "1572",
-"primary_email": "jody.glidden@introhive.com",
-"ranking": "4",
-"name": "Jody Glidden",
-"is_current_user": false
+  "photo_url": "https://s3.amazonaws.com/ih_users/stewart.jpg",
+  "score": "100",
+  "id": "15862",
+  "ranking": "1",
+  "name": "Stewart Walchli",
+  "is_current_user": "false"
 },
 {
-"photo_url":
-"https://s3.amazonaws.com/ih_profiles/uploads/user/image/8216/thumb_019.jpg",
-"score": 32.14774281805746,
-"id": "8216",
-"primary_email": "martyn.sibbald@introhive.com",
-"ranking": "5",
-"name": "Martyn Sibbald",
-"is_current_user": false
+  "photo_url": "https://s3.amazonaws.com/ih_users/stewart.jpg",
+  "score": "100",
+  "id": "15862",
+  "ranking": "1",
+  "name": "Stewart Walchli",
+  "is_current_user": "false"
 }
 ]
 ]
